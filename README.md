@@ -1,1 +1,1 @@
-"#JavaScript Regular-Expression1" 
+JavaScript Regular-Expression1
